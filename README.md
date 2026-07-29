@@ -4,3 +4,4 @@
 
 - [7 行提示词，让 DeepSeek-V4-Flash 追平 V4-Pro](docs/flash-vs-pro.md) — 代码审查实验复盘，从 20 条追问到 7 行自我诊断
 - [Flash 的注意力不是一次性用完的——是持续漏掉的](docs/attention-decay.md) — 多加 6 行，调度中心检出数从 21 跳到 39
+- [四 AI Agent 并行探查实战 — 测试报告](docs/四AI-Agent并行探查实战-测试报告.md) — 同任务四角色并行 + 集群调度 vs 单挑 + 外挂提示词代价
